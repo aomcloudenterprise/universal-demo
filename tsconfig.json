@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
+    
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
-    "baseUrl": ".",
+    "baseUrl": "aomcloudenterprise.netlify.com",
     "experimentalDecorators": true,
     "outDir": "artifacts",
     "jsx": "react",
